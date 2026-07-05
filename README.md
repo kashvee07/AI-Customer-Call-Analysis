@@ -142,7 +142,7 @@ The application will open in your browser.
 
 ![Dashboard](assets/image.png)
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/image2.png)
 
 ## Author
 
