@@ -139,7 +139,7 @@ The application will open in your browser.
 
 ---
 ## Dashboard
-
+![Dashboard](assets/image.png)
 ![Dashboard](assets/dashboard.png)
 
 ## Author
