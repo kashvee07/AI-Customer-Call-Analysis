@@ -40,8 +40,9 @@ customer-support-ai/
 ├── requirements.txt
 ├── README.md
 │
-├── uploads/
-├── outputs/
+├── assets/
+|   ├── dashboard.png
+|   ├── image.png
 │
 └── utils/
     ├── speech.py
@@ -137,6 +138,9 @@ The application will open in your browser.
 - Support for multiple languages
 
 ---
+## Dashboard
+
+![Dashboard](assets/dashboard.png)
 
 ## Author
 
